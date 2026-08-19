@@ -1,5 +1,7 @@
 # linux-mail-agent
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 **面向 AI 智能体的 Linux 邮箱网关** —— 通过命令行或
 [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) 使用
 IMAP/SMTP 读取、搜索、发送、回复、转发、移动和删除邮件。
