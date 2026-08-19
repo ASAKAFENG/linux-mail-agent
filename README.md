@@ -1,5 +1,7 @@
 # linux-mail-agent
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 **Linux email gateway for AI agents** — read, search, send, reply, forward,
 move and delete email over IMAP/SMTP from the command line or through
 [Model Context Protocol (MCP)](https://modelcontextprotocol.io/).
@@ -63,7 +65,8 @@ linux-mail-agent/
 ├── pyproject.toml          # Python package metadata + entry point
 ├── Dockerfile              # container image (SSE/HTTP or isolated stdio)
 ├── Makefile
-├── README.md
+├── README.md               # English README
+├── README.zh-CN.md         # Chinese README
 ├── AGENTS.md               # guide for AI coding agents
 ├── .env.example
 ├── src/linux_mail_agent/
